@@ -1,0 +1,5 @@
+./account_facade.go
+./analytics_facade.go
+./category_facade.go
+./data_management_facade.go
+./operation_facade.go

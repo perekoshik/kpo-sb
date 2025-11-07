@@ -1,0 +1,11 @@
+{
+  "accounts": [
+    {
+      "id": "51e07403-20b3-4dab-91ba-4fb2f47dceb6",
+      "name": "123",
+      "balance": 100000
+    }
+  ],
+  "categories": null,
+  "operations": null
+}
