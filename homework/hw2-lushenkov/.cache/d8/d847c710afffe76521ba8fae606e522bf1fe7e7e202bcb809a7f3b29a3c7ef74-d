@@ -1,0 +1,5 @@
+./add_operation.go
+./command.go
+./delete_operation.go
+./edit_operation.go
+./timed_decorator.go
